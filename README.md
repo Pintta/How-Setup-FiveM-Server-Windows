@@ -10,7 +10,7 @@ https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi
 
 ```
 Run this file:
-https://github.com/Pintta/How-Setup-FiveM-Server-Windows/blob/main/InstallationPack/RunMe.bat
+https://github.com/Pintta/How-Setup-FiveM-Server-Windows/InstallationPack/RunMe.bat
 ```
 
 And ready to go install yours FiveM Server
