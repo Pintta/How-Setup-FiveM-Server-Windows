@@ -32,7 +32,10 @@ And install them. (you really need easy and security SQL Database for yours serv
 ```
 
 Step #5
+```
 Start this resource and click start tab for apache and mysql.
-
+```
 Step #6
+```
 Go to "FiveM-Server/Server" -> Double clicking FXserver.exe and here you go!
+```
