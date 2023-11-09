@@ -32,8 +32,6 @@ Step #4
 
 [Xampp](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe)
 
-And install them. (you really need easy and security SQL Database for yours server, this is simple and easy use.)
-
 Step #5
 ```
 Start this resource and click start tab for apache and mysql.
