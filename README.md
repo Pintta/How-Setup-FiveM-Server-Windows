@@ -3,8 +3,11 @@ This is good guide for what you need setup yours own FiveM Server (Windows) :)
 
 First for setup for fivem you need install this package:
 [VCRedistAIO](https://github.com/Pintta/Visual-C-Redistributable-Runtimes-AIO)
+
 [7Zip](https://www.7-zip.org/a/7z2301-x64.exe)
+
 [NodeJS](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
+
 [Run this file](https://github.com/Pintta/How-Setup-FiveM-Server-Windows/blob/main/InstallationPack/RunMe.bat)
 
 And ready to go install yours FiveM Server
