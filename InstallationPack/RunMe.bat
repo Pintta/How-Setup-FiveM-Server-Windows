@@ -4,7 +4,7 @@ netsh advfirewall firewall add rule name="A1 40120" dir=in action=allow protocol
 netsh advfirewall firewall add rule name="A2 80" dir=in action=allow protocol=UDP localport=80
 netsh advfirewall firewall add rule name="A3 443" dir=in action=allow protocol=UDP localport=443
 echo ==============================================================================================
-netsh advfirewall firewall add rule name="A4 Port" dir=in action=allow protocol=TCP localport=30120, 80, 443
+netsh advfirewall firewall add rule name="A4 Port" dir=in action=allow protocol=TCP localport=30120
 netsh advfirewall firewall add rule name="A5 80" dir=in action=allow protocol=TCP localport=80
 netsh advfirewall firewall add rule name="A6 443" dir=in action=allow protocol=TCP localport=443
 echo ==============================================================================================
